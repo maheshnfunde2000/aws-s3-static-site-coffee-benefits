@@ -133,6 +133,11 @@ photos of live deployment
 
 <img src="assets/s3-bucket.png" alt="S3 Bucket Screenshot" width="700"/>
 
+## ❌ Error Page Screenshot
+
+<img src="assets/error.png" alt="Custom 404 Error Page" width="700"/>
+
+
 
 
 
