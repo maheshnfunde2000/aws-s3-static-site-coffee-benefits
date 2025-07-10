@@ -37,8 +37,11 @@ A simple, beginner-friendly static website hosted on **AWS S3**. This project is
 ## 📁 Project Structure
 
 ├── index.html # Main page with title, image, and video
+
 ├── error.html # Custom 404 page
+
 ├── coffee.jpg # Image used in the page
+
 └── README.md # This file
 
 
